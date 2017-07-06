@@ -14,4 +14,6 @@ A Stylish Website on Functional Programming
 - Examples of Languages that are functional eg. Haskell, Idris
 - Proof languages like Coq (small write-up on)
 
+## Link:
+
 [See Codepen here](https://codepen.io/kammitama5/full/qjKGrg/)
