@@ -1,0 +1,142 @@
+
+
+.navbar-inverse{
+  background:#545557;
+  margin:0;
+  text-align: center;
+  font-size:30px;
+  color:#AABAB3;
+}
+
+.circular-image
+{
+  position: absolute;
+  top: 0; bottom:0;     left: 0; right:0;
+  margin: auto;
+  position: relative;
+  width:250px;
+  height:250px;
+  text-align:center;
+  overflow:hidden;
+  margin-top:40px;
+  border-radius:50%;
+  
+}
+
+.container {
+    width:100%;
+  
+}
+
+.Alonzo-text{
+  top:10px;
+  width:300px;
+  height:20px;
+  align-items: center;
+  justify-content: 
+    center;
+  text-align:center;
+  background-color:#C1C1C1;
+}
+
+.Alonzo-text-container
+{
+  padding:6px;
+  display: -webkit-flex;
+  justify-content:
+    center;
+}
+
+.CategoryTheory-LambdaCalculus
+{
+  padding:50px;
+  
+}
+
+.CategoryTheory-LambdaCalculus{
+  text-align:center;
+  font-size:15px
+}
+.Category-header
+{
+  padding:20px;
+  background-color:grey;
+  font-size:20px;
+  color:#AFAEA6;
+}
+.Category-text
+{
+ background-color:#EAEAEA;
+  text-align:left;
+  padding:4px;
+}
+
+.Lambda-header{
+  padding:20px;
+  background-color:grey;
+  font-size:20px;
+  color:#AFAEA6;
+}
+
+.Lambda-text
+{
+  background-color:#EAEAEA;
+  text-align:left;
+  padding:4px;
+}
+
+.Curry-Howard-Isomorphism-header
+{
+  background-color:#9684C1;
+  padding:10px;
+}
+
+.Curry-Howard-header-text
+{
+  text-align:center;
+  font-size:30px;
+}
+
+.Curry-Howard-Isomorphism-detail-header
+{
+  
+}
+
+.Curry-Howard-Isomorphism-detail-text
+{
+  background-color:#D2D3D2;
+  padding:10px;
+}
+
+.references
+{
+  background-color:#92D493;
+}
+
+.references-text
+{
+  color:black;
+}
+
+.container {
+  width: auto;
+  margin:30px;
+  max-width: 680px;
+  padding: 30px 15px;
+  background-color: #ACEFAE;
+  text-align:center;
+}
+
+.footer-container{
+  margin:50px;
+  padding:10px;
+  background-color:#ACEFAE;
+}
+
+.text-footer{
+  text-align:center;
+  
+}
+
+
+
