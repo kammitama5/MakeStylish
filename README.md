@@ -17,3 +17,8 @@ A Stylish Website on Functional Programming
 ## Link:
 
 [See Codepen here](https://codepen.io/kammitama5/full/qjKGrg/)
+
+
+## Quick image
+
+![stylish](stylish_webpage.png)
