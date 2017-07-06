@@ -11,7 +11,7 @@ A Stylish Website on Functional Programming
 - Galois Theory 
 - Type Theory 
 - Images in LaTeX
-- Examples of Languages that are functional eg. Haskell, Idris
+- Examples of Languages that are functional eg. Haskell, Idris, PureScript
 - Proof languages like Coq (small write-up on)
 
 ## Link:
